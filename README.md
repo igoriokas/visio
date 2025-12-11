@@ -1,3 +1,9 @@
+as root:
+```
+setup.exe /download  "Office 2021/Visio 2021 Pro x64.xml"
+setup.exe /configure "Office 2021/Visio 2021 Pro x64.xml"
+```
+
 List of Office Products with GVLK keys and config files.
 
 | Family           | Product Name                       | ClickToRun Name      |           GVLK key            |     Channel     |
